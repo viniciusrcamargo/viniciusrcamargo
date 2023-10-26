@@ -1,16 +1,19 @@
-### Hi there 👋
+# E ae devs! 👋
 
-<!--
-**viniciusrcamargo/viniciusrcamargo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou Vinicius Rodrigues Camargo!
 
-Here are some ideas to get you started:
+## Sobre Mim
+- 🎓 Formado em Tecnologia em desenvolvimento de Sistemas pelo Unisalesiano
+- 🎓 MBA em Desenvolvimento de Web Sites e Mobile pela Unirp
+- 💼 Atualmente estou trabalhando como Analísta de Sistemas na Ho Sistemas
+- 💼 Sou docente na Centro Paula Sousa Etec na disciplina de programação Web
+- 🌱 Atualmente estou aprendendo [Tecnologia ou Linguagem]
+- 📫 Como me encontrar: 
+  - :office: LinkedIn - https://www.linkedin.com/in/viniciusrcam/
+  - :bird: X - @viniciusrcam
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Minhas Estatísticas no GitHub
+!Estatísticas do GitHub de Vinicius
+
+## Linguagens Mais Usadas
+!PHP, JavaScript, SQL
