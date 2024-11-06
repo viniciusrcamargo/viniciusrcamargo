@@ -12,8 +12,5 @@ Eu sou Vinicius Rodrigues Camargo!
   - :office: LinkedIn - https://www.linkedin.com/in/viniciusrcam/
   - :bird: X - @viniciusrcam
 
-## Minhas Estatísticas no GitHub
-!Estatísticas do GitHub de Vinicius
-
 ## Linguagens Mais Usadas
 !PHP, JavaScript, SQL
