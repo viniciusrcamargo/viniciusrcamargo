@@ -11,7 +11,7 @@ Eu sou Vinicius Rodrigues Camargo!
 - 📫 Como me encontrar: 
   - :computer: www.vinicius.work
   - :email: viniciusr.camargo@gmail.com
-  - :office: LinkedIn - https://www.linkedin.com/in/viniciusrcam/
+  - :office: https://www.linkedin.com/in/viniciusrcam/
   - :bird: X - @viniciusrcam
   
 
