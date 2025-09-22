@@ -6,7 +6,7 @@ Eu sou Vinicius Rodrigues Camargo!
 - 🎓 Formado em Tecnologia em desenvolvimento de Sistemas pelo Unisalesiano
 - 🎓 MBA em Desenvolvimento de Web Sites e Mobile pela Unirp
 - 💼 Atualmente sou Instrutor de Formação Profissional III no Senai
-- 🌱 Atualmente estou aprendendo Dart e node para backend
+- 🌱 Atualmente estou aprendendo Dart
 - 📫 Como me encontrar: 
   - :computer: www.viniciusrodrigues.work
   - :email: viniciusr.camargo@gmail.com
