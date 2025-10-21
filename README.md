@@ -1,6 +1,6 @@
-# E ae devs! 👋
+# Hi devs! 👋
 
-Eu sou Vinicius Rodrigues Camargo!
+I'm Vinicius Rodrigues Camargo!
 
 ## Sobre Mim
 - 🎓 Formado em Tecnologia em desenvolvimento de Sistemas pelo Unisalesiano
