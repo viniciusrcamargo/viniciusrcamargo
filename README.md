@@ -72,22 +72,10 @@ Atualmente atuo como **Instrutor de Formação Profissional III no SENAI SP**, c
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <p align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusrcamargo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=61DAFB&icon_color=F7DF1E" alt="GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusrcamargo&layout=compact&theme=tokyonight&hide_border=true&title_color=61DAFB" alt="Top Languages" />
-  </p>
-  
+  <p align="center">  
   <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=viniciusrcamargo&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </p>
-</div>
-
----
-
-### 📈 Contribuições & Atividade
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=viniciusrcamargo&theme=tokyonight&no-frame=true&column=6&margin-w=10" alt="GitHub Trophies" />
 </div>
 
 <br>
