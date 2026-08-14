@@ -34,7 +34,7 @@ Atualmente atuo como **Instrutor de Formação Profissional III no SENAI SP**, c
 
 - 🎓 **MBA em Desenvolvimento Web e Mobile** (UNIRP) & **Tecnólogo em Desenvolvimento de Sistemas** (UniSALESIANO)
 - 💼 **Docência & Mentoria:** Formação de novos talentos no SENAI e Centro Paula Souza (Web, Mobile, Cloud, IA e Git)
-- 💡 **Foco Atual:** Arquitetura de Aplicações Modernas (React / React Native / Node.js), Engenharia de Prompt e Soluções com IA Generativa
+- 💡 **Foco Atual:** Arquitetura de Aplicações Modernas (React / Next JS/ React Native / Node.js), Engenharia de Prompt e Soluções com IA Generativa
 
 ---
 
