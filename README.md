@@ -1,4 +1,4 @@
-# <p align="center">👋 Olá, eu sou o Vinicius Camargo!</p>
+# <p align="center">👋 Olá, eu sou o Vinicius Rodriges Camargo!</p>
 
 <p align="center">
   <b>Professor de Tecnologia & Desenvolvedor Full Stack Sênior</b><br>
